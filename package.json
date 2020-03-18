@@ -1,0 +1,24 @@
+{
+  "name": "joke-project",
+  "version": "1.0.0",
+  "description": "Created by Harsh Joshi!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Harsh",
+    "Joshi",
+    "Developer",
+    "Node",
+    "Web",
+    "Humour"
+  ],
+  "author": "Harsh Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "devpun": "^1.5.0",
+    "express": "^4.17.1",
+    "knock-knock-jokes": "^1.7.0"
+  }
+}
