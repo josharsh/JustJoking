@@ -18,6 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "devpun": "^1.5.0",
+    "ejs": "^3.1.5",
     "express": "^4.17.1",
     "knock-knock-jokes": "^1.7.0"
   }
