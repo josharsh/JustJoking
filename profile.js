@@ -2,7 +2,7 @@ var token_
 var userName = "clientID"; 
 var passWord = "secretKey";
 var request = new XMLHttpRequest(); 
-
+//Will create API to store information
 function getToken(clientID, clientSecret) {
     var key;           
     request.open("POST", true); 
